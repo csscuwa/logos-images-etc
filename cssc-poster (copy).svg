@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="1488.189"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="cssc-poster.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3829">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.14615385;"
+         offset="0"
+         id="stop3831" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3833" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3860"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3874"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3850"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3852"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient4049"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient4051"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <path
+       style="fill:none;stroke:none;display:inline"
+       id="path3862"
+       transform="matrix(1.0670638,0,0,2.2282755,-131.57696,-845.90422)"
+       d="m 136.84375,605.9415 c 22.49443,4.7723 45.39639,6.85144 68.34375,8.09375 92.60775,6.30859 185.23938,-2.26305 277.72261,-6.5431 34.42488,-0.5085 69.41647,-4.27065 103.40239,2.6056 6.59997,2.13723 15.11694,2.25757 20.15625,7.5625"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;display:inline"
+       id="path3862-1"
+       transform="matrix(1.0670638,0,0,2.2282755,-131.57696,-845.90422)"
+       d="m 136.84375,605.9415 c 22.49443,4.7723 45.39639,6.85144 68.34375,8.09375 92.60775,6.30859 185.23938,-2.26305 277.72261,-6.5431 34.42488,-0.5085 69.41647,-4.27065 103.40239,2.6056 6.59997,2.13723 15.11694,2.25757 20.15625,7.5625"
+       inkscape:connector-curvature="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient4344"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient4346"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3027"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3029"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3058"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3060"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3104"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3106"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3117"
+       gradientUnits="userSpaceOnUse"
+       cx="1845.7142"
+       cy="982.47565"
+       fx="1845.7142"
+       fy="982.47565"
+       r="661.78571" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61080913"
+     inkscape:cx="498.08356"
+     inkscape:cy="812.49046"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="true"
+     width="2104.72px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3106"
+       empspacing="10"
+       visible="false"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="cm"
+       spacingx="0.1cm"
+       spacingy="0.1cm"
+       dotted="false"
+       color="#ffffff"
+       opacity="0.1254902"
+       empcolor="#ffffff"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Half"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       ry="30"
+       rx="30"
+       y="1169.2914"
+       x="70.866142"
+       height="212.59837"
+       width="435.82675"
+       id="rect3921"
+       style="color:#000000;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#c02626;fill-opacity:1"
+       id="rect2996"
+       width="1052.36"
+       height="1488.1899"
+       x="0.00109863"
+       y="-0.00053515623" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Web"
+     sodipodi:insensitive="true">
+    <g
+       id="g3085"
+       transform="translate(112.4053,-1.5624983e-7)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="471.87491"
+         y="1451.7228"
+         id="text4018"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4020"
+           x="471.87491"
+           y="1451.7228"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std">www.facebook.com/cssc.uwa</tspan></text>
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="Facebook__x28_alt_x29_"
+         d="m 452.05491,1427.6497 c 0,-3.9249 -3.54342,-7.4698 -7.46928,-7.4698 h -29.8771 c -3.92586,0 -7.46928,3.5449 -7.46928,7.4698 v 29.8761 c 0,3.9249 3.54342,7.4698 7.46977,7.4698 h 14.93806 v -16.9303 h -5.47747 v -7.4693 h 5.47747 v -2.9101 c 0,-5.0188 3.769,-9.5387 8.40294,-9.5387 h 6.03766 v 7.4692 h -6.03766 c -0.66079,0 -1.43161,0.8022 -1.43161,2.0038 v 2.9758 h 7.46927 v 7.4693 h -7.46927 v 16.9303 h 7.96722 c 3.92586,0 7.46928,-3.5449 7.46928,-7.4698 v -29.8761 z" />
+    </g>
+    <g
+       id="g3090"
+       transform="translate(44.884516,-1.5624983e-7)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4014"
+         y="1451.7228"
+         x="90.626144"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+           y="1451.7228"
+           x="90.626144"
+           id="tspan4016"
+           sodipodi:role="line">www.cssc.asn.au</tspan></text>
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="W3"
+         d="m 42.591204,1428.3066 5.94454,20.2681 5.94605,-20.2681 h 4.30379 10.211 v 2.0784 l -5.26683,10.4829 c 2.12974,0.6872 4.14395,1.937 5.23746,3.7426 1.093,1.809 1.83893,3.9348 1.83893,6.3733 0,3.0156 -0.70012,5.5477 -2.30004,7.6042 -1.59793,2.0536 -3.61712,3.0813 -6.16016,3.0813 -1.91413,0 -3.55289,-0.6105 -4.97553,-1.828 -1.42166,-1.2204 -2.45889,-2.8702 -3.14158,-4.9556 l 3.36516,-1.3957 c 0.49297,1.2613 1.14479,2.2522 1.95296,2.9802 0.8042,0.726 1.75528,1.086 2.84879,1.086 1.14877,0 2.12127,-0.6428 2.91301,-1.9295 0.79175,-1.2902 1.18961,-2.8374 1.18961,-4.6469 0,-1.9993 -0.42674,-4.1569 -1.27227,-5.2504 -0.98345,-1.2907 -2.5286,-2.5401 -4.63344,-2.5401 h -2.83036 v -0.7598 l 6.9295,-10.4027 h -6.9275 l -0.39388,0.032 -8.42535,27.8734 h -0.40932 l -6.15169,-20.6386 -6.14672,20.6391 h -0.41131 l -9.83554,-31.6264 h 4.3028 l 5.94455,20.3005 4.01648,-13.6678 -1.96791,-6.6327 h 4.3048 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Events"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 100.875,1169.2812 c -16.62,0 -30,13.3801 -30,30 l 0,26.25 435.8125,0 0,-26.25 c 0,-16.6199 -13.38,-30 -30,-30 l -375.8125,0 z"
+       id="rect4060"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 70.875,1225.5312 0,126.3438 c 0,16.62 13.38,30 30,30 l 375.8125,0 c 16.62,0 30,-13.38 30,-30 l 0,-126.3438 z"
+       id="rect4110"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3935"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-13.751732,744.50685)"><flowRegion
+         id="flowRegion3937"><rect
+           id="rect3939"
+           width="389.75806"
+           height="235.30038"
+           x="107.66199"
+           y="497.23553"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara3943">When: <flowSpan
+   style="font-weight:normal"
+   id="flowSpan4040">Tuesdays at 1pm during semester</flowSpan></flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara4032"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4042">Where:</flowSpan> Rex Prider Courtyard (outside CS)</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara4034"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4044">What: </flowSpan>Weekly social barbecue; we sell sausages, hash browns, bacon and drinks.</flowPara><flowPara
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara4052">All are welcome!</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara4036" /></flowRoot>    <flowRoot
+       transform="translate(-13.751732,688.1487)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4069"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4071"><rect
+           style="text-align:justify;text-anchor:start;fill:#ffffff"
+           y="497.23553"
+           x="107.66199"
+           height="235.30038"
+           width="389.75806"
+           id="rect4073" /></flowRegion><flowPara
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std Semi-Bold"
+         id="flowPara4075">CSSC Barbecues</flowPara><flowPara
+         id="flowPara4089"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std" /><flowPara
+         id="flowPara4091"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#ffffff;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std" /></flowRoot>    <g
+       id="g4172"
+       transform="translate(474.80865,4.84375e-6)">
+      <path
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 100.875,1169.2812 c -16.62,0 -30,13.3801 -30,30 l 0,26.25 435.8125,0 0,-26.25 c 0,-16.6199 -13.38,-30 -30,-30 l -375.8125,0 z"
+         id="path4134"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 70.875,1225.5312 0,126.3438 c 0,16.62 13.38,30 30,30 l 375.8125,0 c 16.62,0 30,-13.38 30,-30 l 0,-126.3438 z"
+         id="path4136"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssscc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4138"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="translate(-13.751732,744.50685)"><flowRegion
+           id="flowRegion4140"><rect
+             id="rect4142"
+             width="389.75806"
+             height="235.30038"
+             x="107.66199"
+             y="497.23553"
+             style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+           id="flowPara4144">When: <flowSpan
+   style="font-weight:normal"
+   id="flowSpan4207">Fridays at 1pm during semester</flowSpan></flowPara><flowPara
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+           id="flowPara4148"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4150">Where: </flowSpan>Broadway Tavern</flowPara><flowPara
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+           id="flowPara4152"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4154">What: </flowSpan>Meet for meals and drinks at Broadway Tavern; 18+ only event.</flowPara><flowPara
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+           id="flowPara4156">All are welcome!</flowPara><flowPara
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+           id="flowPara4158" /></flowRoot>      <flowRoot
+         transform="translate(-13.751732,688.1487)"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4160"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4162"><rect
+             style="text-align:justify;text-anchor:start;fill:#ffffff"
+             y="497.23553"
+             x="107.66199"
+             height="235.30038"
+             width="389.75806"
+             id="rect4164" /></flowRegion><flowPara
+           id="flowPara4170"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std Semi-Bold">CSSC @ BoB's</flowPara></flowRoot>    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Club Room"
+     style="display:inline">
+    <rect
+       style="color:#000000;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3139-2"
+       width="910.62994"
+       height="460.62991"
+       x="70.866142"
+       y="673.22833"
+       rx="30"
+       ry="30" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3909-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(3.8812369,223.13702)"><flowRegion
+         id="flowRegion3911-0"><rect
+           id="rect3913-9"
+           width="354.32498"
+           height="377.03268"
+           x="107.66199"
+           y="497.23553"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3915-0"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std Semi-Bold">Club Room</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara3919-9" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="About"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3139"
+       width="910.62994"
+       height="283.46454"
+       x="70.866142"
+       y="354.33069"
+       rx="30"
+       ry="30" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3909"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(6.9078091,-105.72327)"><flowRegion
+         id="flowRegion3911"><rect
+           id="rect3913"
+           width="823.09332"
+           height="356.55801"
+           x="107.66199"
+           y="497.23553"
+           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3915"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std Semi-Bold">About the Computer Science Students' Club</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std"
+         id="flowPara3919">The Computer Science Students' Club (CSSC) runs social and educational events for students in the School of Computer Science and Software Engineering, at the University of Western Australia. The CSSC has a club room in the Computer Science building, near the student computer labs, which sells food and drink, and has a fridge, microwave, couches, and gaming consoles for computer science students to use. The CSSC also runs a number of regular events, including weekly barbecues each Tuesday, staff vs. students soccer matches at the end of each semester, an annual quiz night in the UWA Tav, and occasional LANs.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,435.82692)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="411.13318"
+       y="112.29851"
+       id="text3880"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3882"
+         x="411.13318"
+         y="112.29851" /></text>
+    <g
+       id="g3846"
+       transform="matrix(0.5,0,0,0.5,0.00109863,-288.77773)">
+      <rect
+         y="-202.78423"
+         x="297.63556"
+         height="526.0592"
+         width="1509.4489"
+         id="rect3844"
+         style="fill:#c02626;fill-opacity:1" />
+      <path
+         transform="matrix(1.6057309,0,0,0.34590553,-1911.3603,-279.59838)"
+         d="m 2499.9999,982.47565 a 654.28571,654.28571 0 1 1 -1308.5714,0 654.28571,654.28571 0 1 1 1308.5714,0 z"
+         sodipodi:ry="654.28571"
+         sodipodi:rx="654.28571"
+         sodipodi:cy="982.47565"
+         sodipodi:cx="1845.7142"
+         id="path3819"
+         style="fill:url(#radialGradient3058);fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <rect
+         style="fill:#c02626;fill-opacity:1"
+         id="rect3815"
+         width="2104.72"
+         height="224.40077"
+         x="0"
+         y="60.24538" />
+      <g
+         transform="matrix(3.4258187,0,0,3.4258187,-1845.2098,-1413.9374)"
+         id="g3809">
+        <path
+           id="path3795"
+           style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 775.35715,459.86208 -30.17857,0 0,-65 30.17857,0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="path3801"
+           style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 832.38095,394.86208 -30.17857,0 0,32.5 30.17857,0 0,32.5 -30.17857,0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           d="m 889.40479,394.50494 -30.17857,0 0,32.5 30.17857,0 0,32.5 -30.17857,0"
+           style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3805" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           d="m 946.42858,459.86208 -30.17857,0 0,-65 30.17857,0"
+           style="fill:none;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3807" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient3117);fill-opacity:1;stroke:none"
+         id="path3837"
+         sodipodi:cx="1845.7142"
+         sodipodi:cy="982.47565"
+         sodipodi:rx="654.28571"
+         sodipodi:ry="654.28571"
+         d="m 2499.9999,982.47565 a 654.28571,654.28571 0 1 1 -1308.5714,0 654.28571,654.28571 0 1 1 1308.5714,0 z"
+         transform="matrix(0.82323564,0,0,0.15937545,-467.09776,28.575325)" />
+      <text
+         xml:space="preserve"
+         style="font-size:50.16439056px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="687.5238"
+         y="260.57318"
+         id="text3011"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3013"
+           x="687.5238"
+           y="260.57318"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Palatino LT Std;-inkscape-font-specification:Palatino LT Std">Computer Science Students Club</tspan></text>
+    </g>
+  </g>
+</svg>
